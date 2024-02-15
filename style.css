@@ -1,0 +1,19 @@
+.divgrande{
+    margin-top: 5px;
+}
+
+.divpequeño{
+    border: blue 1px solid;
+    width: 33%;
+    height: 200px;
+    display: inline-block;
+    text-align: center
+}
+
+li{
+    text-align: center;
+}
+
+li.nocentrar{
+    text-align: left;
+}
